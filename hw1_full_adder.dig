@@ -32,26 +32,6 @@
       <pos x="240" y="260"/>
     </visualElement>
     <visualElement>
-      <elementName>Add</elementName>
-      <elementAttributes/>
-      <pos x="620" y="120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Add</elementName>
-      <elementAttributes/>
-      <pos x="940" y="120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Add</elementName>
-      <elementAttributes/>
-      <pos x="1220" y="120"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Add</elementName>
-      <elementAttributes/>
-      <pos x="1540" y="120"/>
-    </visualElement>
-    <visualElement>
       <elementName>Splitter</elementName>
       <elementAttributes>
         <entry>
@@ -126,6 +106,26 @@
         </entry>
       </elementAttributes>
       <pos x="420" y="420"/>
+    </visualElement>
+    <visualElement>
+      <elementName>hw1_adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="620" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>hw1_adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="940" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>hw1_adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="1220" y="120"/>
+    </visualElement>
+    <visualElement>
+      <elementName>hw1_adder.dig</elementName>
+      <elementAttributes/>
+      <pos x="1540" y="120"/>
     </visualElement>
   </visualElements>
   <wires>
